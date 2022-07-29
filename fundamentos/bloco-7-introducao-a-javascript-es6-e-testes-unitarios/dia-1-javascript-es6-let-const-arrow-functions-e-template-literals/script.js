@@ -16,3 +16,12 @@
       }
 
       testingScope(true);
+
+//🚀 Crie uma função que retorne um array em ordem crescente.
+
+const oddsAndEvens = [13, 3, 4, 10, 7, 2];
+
+// Seu código aqui.
+const rearenge = (array) => array.sort((a, b) => a - b)
+
+console.log(rearenge(oddsAndEvens)); // será necessário alterar essa linha 😉
