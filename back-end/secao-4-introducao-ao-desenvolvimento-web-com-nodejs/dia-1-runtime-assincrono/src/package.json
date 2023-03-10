@@ -1,0 +1,13 @@
+{
+  "name": "my-scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "bmi": "node exercicio-1-a-5/bmi.js",
+    "simpsons": "node exercicio-6/simpsons.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Ramos Regis",
+  "license": "ISC"
+}
